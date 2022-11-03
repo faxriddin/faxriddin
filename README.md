@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+**I am Fakhriddin, Software developer**
+
 - 🔭 I’m currently working on A "Adolat" court system
 - 🌱 I’m currently learning **Rust programming language**
 - 👯 I’m looking to collaborate on **Software Architecture**
