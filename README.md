@@ -2,7 +2,7 @@
 
 **I am Fakhriddin, Software developer**
 
-- 🔭 I’m currently working on A "Adolat" court system
+- 🔭 I’m currently working on **A "Adolat" court system**
 - 🌱 I’m currently learning **Rust programming language**
 - 👯 I’m looking to collaborate on **Software Architecture**
 - 🤔 I’m looking for help with **Learning Software development**
